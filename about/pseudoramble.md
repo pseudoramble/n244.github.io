@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: bio
 title: "Doug Swain"
 date: 2016-04-17 00:00:00 -0500
 author: pseudoramble
 categories: bios
 ---
 
-A short bit about myself: I attended The University of New Hampshire (UNH) where I obtained my BS in Computer Science. And yes, N244 ("The Lounge") is where I spent much of my time. I think the amount of time spend there increased at roughly O(2^n), though it doesn't seem like the program to test that idea has terminated yet. 
+A short bit about myself: I attended The University of New Hampshire (UNH) where I obtained my BS in Computer Science. And yes, N244 ("The Lounge") is where I spent much of my time. I think the amount of time spend there increased at roughly `O(2^n)`, though it doesn't seem like the program to test that idea has terminated yet. 
 
 After UNH, my professional life after has been working as a front-end software developer (along with RESTful services here and there). My main language of use here is Javascript (ES5 initially, but much more ES 6/7 recently) along with Javascript tools like React and Redux. I also dabble in HTML and CSS as I need to.
 
