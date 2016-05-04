@@ -17,8 +17,8 @@ stories. Chung chung.
 
 Check out our bio pages:
 
-* Ben Decato
+* [Ben Decato](bendecato)
 * [Doug Swain](pseudoramble)
-* Dustin Scheonbreun
+* Dustin Schoenbrun
 * [Jake Schwartz](jakehschwartz)
 * Will Rideout
