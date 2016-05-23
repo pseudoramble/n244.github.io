@@ -3,7 +3,11 @@ layout: post
 title:  "The Search for Reliable SSH"
 author: wrideout
 date:   2016-04-11 20:12:41 -0700
+<<<<<<< HEAD
+tags: [tools, vim, osx]
+=======
 categories: til tools vim osx
+>>>>>>> 9e1967da731c6fe71ce94258e93705bf8b14f76a
 ---
 
 ## Imagine this scenario...
@@ -121,4 +125,7 @@ Not bad for an afternoon's worth of googling!
 * [Tmux](https://tmux.github.io/)
 * [Getting 256-Colors to Work in Tmux](https://unix.stackexchange.com/questions/1045/getting-256-colors-to-work-in-tmux)
 * [Better Mouse Scrolling in Tmux](https://www.davidverhasselt.com/better-mouse-scrolling-in-tmux/)
+<<<<<<< HEAD
+=======
 
+>>>>>>> 9e1967da731c6fe71ce94258e93705bf8b14f76a

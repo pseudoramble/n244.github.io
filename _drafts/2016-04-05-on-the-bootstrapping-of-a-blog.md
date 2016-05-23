@@ -2,7 +2,7 @@
 layout: post
 title:  "On The Boostrapping Of A Blog"
 date:   2016-04-01 21:02:41 -0700
-categories: jekyll getting-started blogging
+tags: [jekyll, getting-started, blogging]
 ---
 
 Sometimes, you sit on the couch and watch Rick and Morty, or Trailer Park Boys, or whatever you like.

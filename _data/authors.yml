@@ -1,14 +1,35 @@
 # Authors
 
-# billy_rick:
-  # name: Billy Rick
-  # web: http://thewhip.com
-  # email: billy@rick.com
-  # bio: "What do you want, jewels? I am a very extravagant man."
-  # avatar: bio-photo-2.jpg
-  # twitter: extravagantman
-  # google:
-    # plus: BillyRick
+# Site Author
+# author:
+#   name             : "Your Name"
+#   avatar           : "bio-photo.jpg"
+#   bio              : "I am an amazing person."
+#   location         : "Somewhere"
+#   email            :
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           :
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   lastfm           :
+#   linkedin         :
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          :
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
 
 benjamin_decato:
   name: Benjamin Decato
@@ -27,7 +48,7 @@ jakehschwartz:
   name: Jake Schwartz
   email: jakehschwartz@gmail.com
   bio: "Wubba lubba dub dub!"
-  avatar: 
+  avatar:
   twitter: jakehschwartz
   github: jakehschwartz
 
