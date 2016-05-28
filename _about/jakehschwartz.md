@@ -1,7 +1,6 @@
 ---
-layout: bio
+layout: post
 title: "Jake Schwartz"
-date: 2016-04-14 00:00:00 -0700
 author: jakehschwartz
 categories: bios
 ---

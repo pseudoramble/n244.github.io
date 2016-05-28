@@ -1,7 +1,6 @@
 ---
-layout: bio
+layout: post
 title: "Doug Swain"
-date: 2016-04-17 00:00:00 -0500
 author: pseudoramble
 categories: bios
 ---

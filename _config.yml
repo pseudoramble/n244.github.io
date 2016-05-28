@@ -38,7 +38,15 @@ defaults:
     comments: true
     share: true
     related: true
-
+# about sections
+- scope:
+    path: ""
+    type: about
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -183,3 +191,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Custom collections to make finding certain things easier
+collections:
+  about:
+    output: true
+    permalink: /:collection/:path/

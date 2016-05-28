@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Ben Decato"
-date: 2016-04-24 00:00:00 -0700
-author: bendecato
+author: benjamin_decato
 categories: bios
 ---
 

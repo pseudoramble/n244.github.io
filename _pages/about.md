@@ -1,11 +1,7 @@
 ---
-layout: page
-title: About N244
-date: 2016-04-15T20:53:07.573882-07:00
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+layout: post
+title: "About N244"
+permalink: /about/
 ---
 
 Welcome to N244 or, as it was more affectionately known as, The Lounge. We are a group of 
